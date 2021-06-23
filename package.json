@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learning Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/seonghyun26/typechain",
+  "author": "eddy <hyun11262000@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
